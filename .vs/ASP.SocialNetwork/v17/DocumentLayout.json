@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\repository\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\repository\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\wwwroot\\css\\base-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:wwwroot\\css\\base-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\shared\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\shared\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\viewmodels\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\viewmodels\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|c:\\users\\vsp\\documents\\repos\\asp.socialnetwork\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6517BE7-4CA2-45B8-B759-0B3AE634486E}|ASP.SocialNetwork.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T17:25:58.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:19:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:34:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Register.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:34:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Login.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:32:34.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:35:31.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterPart2.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\RegisterPart2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\RegisterPart2.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\RegisterPart2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\RegisterPart2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:48:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Controllers\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:41:48.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T15:47:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\Repository\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\Repository\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\Repository\\MessageRepository.cs",
+              "RelativeToolTip": "Controllers\\Repository\\MessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:40:27.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:45:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:46:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:37:19.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:46:31.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:46:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T16:53:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main-page.css",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\wwwroot\\css\\main-page.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\main-page.css",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\wwwroot\\css\\main-page.css",
+              "RelativeToolTip": "wwwroot\\css\\main-page.css",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T16:53:52.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "base-styles.css",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\wwwroot\\css\\base-styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\base-styles.css",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\wwwroot\\css\\base-styles.css",
+              "RelativeToolTip": "wwwroot\\css\\base-styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T16:54:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:32:02.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountManagerController.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeToolTip": "Controllers\\AccountManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:38:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:38:25.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:45:39.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Months.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\Months.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\Months.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ViewModels\\Months.cs",
+              "RelativeToolTip": "Models\\ViewModels\\Months.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:47:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Controllers\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:40:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Controllers\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Controllers\\Repository\\Repository.cs",
+              "RelativeToolTip": "Controllers\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:40:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:44:22.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:44:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\ASP.SocialNetwork\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:43:48.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
