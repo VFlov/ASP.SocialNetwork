@@ -1,8 +1,8 @@
-﻿using AutoMapper;
+﻿using ASP.SocialNetwork.Models.ViewModels;
+using ASP.SocialNetwork.Models;
+using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using ASP.SocialNetwork.Models;
-using ASP.SocialNetwork.Models.ViewModels;
 
 namespace ASP.SocialNetwork.Controllers
 {
@@ -34,8 +34,6 @@ namespace ASP.SocialNetwork.Controllers
         {
             return View("RegisterPart2", model);
         }
-
-
 
         [Route("Register")]
         [HttpPost]

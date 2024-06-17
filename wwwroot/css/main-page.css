@@ -1,20 +1,20 @@
-﻿﻿.main {
-    -ms-flex: 40%; /* IE10 */
+﻿.main {
+    -ms-flex: 40%; 
     flex: 40%;
     padding: 20px;
 }
 
 
 .side {
-    -ms-flex: 60%; /* IE10 */
+    -ms-flex: 60%; 
     flex: 60%;
     padding: 20px;
 }
 
 .row {
-    display: -ms-flexbox; /* IE10 */
+    display: -ms-flexbox; 
     display: flex;
-    -ms-flex-wrap: wrap; /* IE10 */
+    -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
 }
 
@@ -93,7 +93,7 @@
 
 .main-img {
     width: 100%;
-    max-width: max-content;
+    max-width: 500px;
 }
 
 .text-size_12 {

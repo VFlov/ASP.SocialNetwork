@@ -1,6 +1,6 @@
 ﻿@using Microsoft.AspNetCore.Identity;
 @using ASP.SocialNetwork.Models;
-@inject SignInManager<User> SignInManager;
+@inject SignInManager<User> SignInManager
 @inject UserManager<User> UserManager;
 
 @model ASP.SocialNetwork.Models.ViewModels.MainViewModel;
@@ -11,7 +11,8 @@
 }
 @if (SignInManager.IsSignedIn(User))
 {
-    <div>Hello @User.Identity!</div>
+    //редирект
+
 }
 else
 {
@@ -22,6 +23,7 @@ else
             </div>
             <img class="main-img" src="http://pngimg.com/uploads/husky/husky_PNG19.png" />
         </div>
+
 
         <div class="main">
             <partial name="Login" model="@Model.LoginView" />

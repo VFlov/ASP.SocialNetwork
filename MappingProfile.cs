@@ -1,6 +1,10 @@
 ﻿using ASP.SocialNetwork.Models.ViewModels;
 using ASP.SocialNetwork.Models;
 using AutoMapper;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace ASP.SocialNetwork
 {
@@ -13,6 +17,12 @@ namespace ASP.SocialNetwork
                 .ForMember(x => x.Email, opt => opt.MapFrom(c => c.EmailReg))
                 .ForMember(x => x.UserName, opt => opt.MapFrom(c => c.Login));
             CreateMap<LoginViewModel, User>();
+
+            CreateMap<UserEditViewModel, User>();
+            CreateMap<User, UserEditViewModel>().ForMember(x => x.UserId, opt => opt.MapFrom(c => c.Id));
+
+            CreateMap<UserWithFriendExt, User>();
+            CreateMap<User, UserWithFriendExt>();
         }
     }
 }

@@ -1,4 +1,10 @@
-﻿namespace ASP.SocialNetwork.Models.ViewModels
+﻿using ASP.SocialNetwork.Models.ViewModels;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ASP.SocialNetwork.Models.ViewModels
 {
     public class MainViewModel
     {

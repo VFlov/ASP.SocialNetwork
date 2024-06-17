@@ -1,4 +1,9 @@
-﻿namespace ASP.SocialNetwork.Controllers.Repository
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ASP.SocialNetwork.Controllers.Repository
 {
     public interface IRepository<T> where T : class
     {
@@ -6,6 +11,6 @@
         T Get(int id);
         void Create(T item);
         void Update(T item);
-        void Delete(int id);
+        void Delete(T item);
     }
 }

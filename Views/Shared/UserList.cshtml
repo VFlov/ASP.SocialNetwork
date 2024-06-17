@@ -1,0 +1,28 @@
+﻿@model ASP.SocialNetwork.Models.ViewModels.SearchViewModel;
+
+
+<div class="block-reg background-white">
+
+    @if (Model.UserList.Count != 0)
+    {
+
+        @foreach (var user in @Model.UserList)
+        {
+            <div>
+                <label>@user.GetFullName()</label>
+            </div>
+        }
+    }
+    else
+    {
+        <label> Поиск не дал результатов.</label>
+    }
+
+
+</div>
+<div class="righ-align">
+    <form asp-area="" asp-controller="AccountManager" asp-action="UserList">
+        <i class="fa fa-search"></i>
+        <input type="text" placeholder="Поиск" name="search">
+    </form>
+</div>

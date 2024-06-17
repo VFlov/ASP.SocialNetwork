@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\VSP\Documents\Repos\ASP.SocialNetwork
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/AccountManager/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudE1hbmFnZXJcQ2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/AccountManager/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudE1hbmFnZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/AccountManager/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudE1hbmFnZXJcVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/AccountManager/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudE1hbmFnZXJcVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +56,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/Shared/RegisterPart2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZ2lzdGVyUGFydDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/Shared/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/Shared/_SearchLayoutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hMYXlvdXRQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/VSP/Documents/Repos/ASP.SocialNetwork/Views/Shared/_ValidationScriptsPartial.cshtml]
